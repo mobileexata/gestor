@@ -1,0 +1,1 @@
+[Tue Jul 21 07:00:03.734915 2020] [php7:error] [pid 1799] [client 177.177.209.31:39636] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /var/www/html/exataautomacao.net/vendor/laravel/framework/src/Illuminate/Database/Connectors/ConnectorInterface.php on line 15

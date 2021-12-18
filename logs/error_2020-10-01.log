@@ -1,0 +1,2 @@
+[Thu Oct 01 00:06:30.548796 2020] [php7:error] [pid 86] [client 179.181.236.22:50832] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /var/www/html/exataautomacao.net/vendor/laravel/framework/src/Illuminate/Auth/Passwords/CanResetPassword.php on line 30
+[Thu Oct 01 00:06:44.404718 2020] [php7:error] [pid 86] [client 179.181.236.22:50832] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /var/www/html/exataautomacao.net/app/Exceptions/Handler.php on line 8

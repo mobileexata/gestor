@@ -1,0 +1,1 @@
+[Fri Aug 14 22:18:08.472606 2020] [php7:error] [pid 86] [client 186.212.168.141:34590] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /var/www/html/exataautomacao.net/vendor/laravel/framework/src/Illuminate/Database/DatabaseServiceProvider.php on line 14

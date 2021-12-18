@@ -1,0 +1,2 @@
+[Mon Sep 21 14:31:29.780469 2020] [php7:error] [pid 8899] [client 46.182.106.190:22558] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /var/www/html/exataautomacao.net/vendor/laravel/framework/src/Illuminate/Hashing/AbstractHasher.php on line 35, referer: http://exataautomacao.net/register
+[Mon Sep 21 14:45:50.110973 2020] [php7:error] [pid 10287] [client 177.79.118.72:31514] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /var/www/html/exataautomacao.net/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php on line 50

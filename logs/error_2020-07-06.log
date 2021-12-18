@@ -1,0 +1,2 @@
+[Mon Jul 06 20:38:29.859093 2020] [php7:error] [pid 63] [client 35.237.175.144:12324] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /var/www/html/exataautomacao.net/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php on line 211
+[Mon Jul 06 20:38:33.689366 2020] [php7:error] [pid 63] [client 35.237.175.144:12324] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /var/www/html/exataautomacao.net/vendor/laravel/framework/src/Illuminate/Contracts/Debug/ExceptionHandler.php on line 43

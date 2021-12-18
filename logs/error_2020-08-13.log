@@ -1,0 +1,2 @@
+[Thu Aug 13 22:28:56.188203 2020] [php7:error] [pid 62] [client 177.79.126.55:17678] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /var/www/html/exataautomacao.net/vendor/laravel/framework/src/Illuminate/Support/Facades/Request.php on line 47
+[Thu Aug 13 22:29:04.856448 2020] [php7:error] [pid 62] [client 177.79.126.55:17678] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /var/www/html/exataautomacao.net/vendor/symfony/debug/Exception/FatalErrorException.php on line 19

@@ -1,0 +1,3 @@
+[Sun May 02 14:09:26.224478 2021] [php7:error] [pid 62] [client 179.197.138.160:36906] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /var/www/html/exataautomacao.net/bootstrap/cache/services.php on line 2
+[Sun May 02 15:10:39.411163 2021] [php7:error] [pid 87] [client 179.197.138.160:4282] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /var/www/html/exataautomacao.net/vendor/laravel/framework/src/Illuminate/Contracts/Auth/Access/Authorizable.php on line 16
+[Sun May 02 15:10:43.875931 2021] [php7:error] [pid 87] [client 179.197.138.160:4282] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /var/www/html/exataautomacao.net/vendor/symfony/debug/Exception/FatalErrorException.php on line 19

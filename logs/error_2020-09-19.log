@@ -1,0 +1,1 @@
+[Sat Sep 19 04:52:35.145504 2020] [php7:error] [pid 63] [client 138.246.253.15:11736] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /var/www/html/exataautomacao.net/vendor/symfony/http-foundation/Cookie.php on line 299

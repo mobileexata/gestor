@@ -1,0 +1,1 @@
+[Sun Sep 06 17:06:55.764148 2020] [php7:error] [pid 62] [client 201.18.185.240:50358] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /var/www/html/exataautomacao.net/vendor/symfony/http-foundation/Response.php on line 378

@@ -1,0 +1,2 @@
+[Wed Aug 26 02:13:34.436098 2020] [php7:error] [pid 86] [client 40.77.167.204:20146] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /var/www/html/exataautomacao.net/vendor/laravel/framework/src/Illuminate/Auth/EloquentUserProvider.php on line 11
+[Wed Aug 26 02:14:01.491176 2020] [php7:error] [pid 86] [client 40.77.167.204:20146] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /var/www/html/exataautomacao.net/vendor/symfony/debug/Exception/FatalErrorException.php on line 19

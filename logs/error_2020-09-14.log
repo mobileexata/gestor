@@ -1,0 +1,2 @@
+[Mon Sep 14 01:01:38.589651 2020] [php7:error] [pid 56] [client 179.177.174.107:34582] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /var/www/html/exataautomacao.net/bootstrap/cache/services.php on line 2
+[Mon Sep 14 01:02:01.246095 2020] [php7:error] [pid 56] [client 179.177.174.107:34582] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /var/www/html/exataautomacao.net/vendor/symfony/debug/Exception/FatalErrorException.php on line 19

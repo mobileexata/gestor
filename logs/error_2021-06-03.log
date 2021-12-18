@@ -1,0 +1,3 @@
+[Thu Jun 03 19:58:43.995400 2021] [php7:error] [pid 86] [client 177.40.222.232:47524] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /var/www/html/exataautomacao.net/vendor/laravel/framework/src/Illuminate/Contracts/Auth/Guard.php on line 51
+[Thu Jun 03 19:58:55.618039 2021] [php7:error] [pid 86] [client 177.40.222.232:47524] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /var/www/html/exataautomacao.net/vendor/symfony/debug/Exception/FatalErrorException.php on line 19
+[Thu Jun 03 20:02:01.399559 2021] [php7:error] [pid 85] [client 201.77.14.147:49284] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /var/www/html/exataautomacao.net/vendor/doctrine/dbal/lib/Doctrine/DBAL/Driver/PDOConnection.php on line 14

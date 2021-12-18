@@ -1,0 +1,2 @@
+[Mon Jan 18 20:39:48.564924 2021] [php7:error] [pid 63] [client 201.78.162.139:30632] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /var/www/html/exataautomacao.net/vendor/laravel/framework/src/Illuminate/Routing/Router.php on line 751
+[Mon Jan 18 20:51:38.012257 2021] [php7:error] [pid 62] [client 177.40.140.191:62682] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /var/www/html/exataautomacao.net/vendor/laravel/framework/src/Illuminate/Database/DatabaseServiceProvider.php on line 14

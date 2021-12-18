@@ -1,0 +1,2 @@
+[Sat May 29 18:49:24.882781 2021] [php7:error] [pid 59] [client 45.227.123.105:16568] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /var/www/html/exataautomacao.net/vendor/laravel/framework/src/Illuminate/Session/Store.php on line 12
+[Sat May 29 18:49:43.754099 2021] [php7:error] [pid 59] [client 45.227.123.105:16568] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /var/www/html/exataautomacao.net/vendor/laravel/framework/src/Illuminate/Log/LogManager.php on line 20

@@ -1,0 +1,1 @@
+[Thu Aug 20 14:29:52.308198 2020] [php7:error] [pid 12679] [client 177.17.85.165:51204] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /var/www/html/exataautomacao.net/vendor/laravel/framework/src/Illuminate/Foundation/AliasLoader.php on line 73

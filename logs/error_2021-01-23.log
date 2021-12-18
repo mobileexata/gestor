@@ -1,0 +1,2 @@
+[Sat Jan 23 07:19:04.059298 2021] [php7:error] [pid 63] [client 167.99.156.117:21286] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /var/www/html/exataautomacao.net/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php on line 9
+[Sat Jan 23 07:19:13.410708 2021] [php7:error] [pid 63] [client 167.99.156.117:21286] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /var/www/html/exataautomacao.net/vendor/laravel/framework/src/Illuminate/Log/LogManager.php on line 20

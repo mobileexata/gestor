@@ -1,0 +1,2 @@
+[Mon Aug 24 05:06:02.915431 2020] [php7:error] [pid 58] [client 35.196.122.54:21826] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /var/www/html/exataautomacao.net/vendor/laravel/framework/src/Illuminate/Cookie/CookieServiceProvider.php on line 7
+[Mon Aug 24 05:06:20.707093 2020] [php7:error] [pid 58] [client 35.196.122.54:21826] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /var/www/html/exataautomacao.net/vendor/symfony/debug/Exception/FatalErrorException.php on line 19

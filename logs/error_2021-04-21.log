@@ -1,0 +1,1 @@
+[Wed Apr 21 17:12:53.064589 2021] [php7:error] [pid 85] [client 179.197.137.133:39394] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /var/www/html/exataautomacao.net/app/User.php on line 9

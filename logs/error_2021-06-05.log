@@ -1,0 +1,2 @@
+[Sat Jun 05 01:13:05.979176 2021] [php7:error] [pid 64] [client 45.227.122.109:42302] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /var/www/html/exataautomacao.net/vendor/laravel/framework/src/Illuminate/Auth/MustVerifyEmail.php on line 39
+[Sat Jun 05 01:13:22.384927 2021] [php7:error] [pid 64] [client 45.227.122.109:42302] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /var/www/html/exataautomacao.net/vendor/symfony/debug/Exception/FatalErrorException.php on line 19

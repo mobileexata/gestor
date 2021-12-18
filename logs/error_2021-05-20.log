@@ -1,0 +1,2 @@
+[Thu May 20 07:31:35.889641 2021] [php7:error] [pid 86] [client 177.133.237.234:37178] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /var/www/html/exataautomacao.net/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Concerns/QueriesRelationships.php on line 491
+[Thu May 20 07:32:07.575780 2021] [php7:error] [pid 86] [client 177.133.237.234:37178] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /var/www/html/exataautomacao.net/vendor/symfony/debug/Exception/FatalErrorException.php on line 19

@@ -1,0 +1,1 @@
+[Mon Aug 31 20:49:05.776554 2020] [php7:error] [pid 58] [client 187.113.187.161:45596] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /var/www/html/exataautomacao.net/vendor/symfony/http-foundation/RedirectResponse.php on line 19, referer: http://exataautomacao.net/login

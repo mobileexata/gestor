@@ -1,0 +1,1 @@
+[Tue Sep 15 13:25:01.366650 2020] [php7:error] [pid 4822] [client 177.25.177.163:28084] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /var/www/html/exataautomacao.net/vendor/laravel/framework/src/Illuminate/View/Engines/PhpEngine.php on line 50

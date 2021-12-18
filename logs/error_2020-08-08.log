@@ -1,0 +1,2 @@
+[Sat Aug 08 01:15:28.745328 2020] [php7:error] [pid 86] [client 35.185.25.67:36524] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /var/www/html/exataautomacao.net/vendor/laravel/framework/src/Illuminate/Contracts/Auth/StatefulGuard.php on line 5
+[Sat Aug 08 01:15:31.123455 2020] [php7:error] [pid 86] [client 35.185.25.67:36524] PHP Fatal error:  Maximum execution time of 60 seconds exceeded in /var/www/html/exataautomacao.net/vendor/symfony/debug/Exception/FatalErrorException.php on line 19
